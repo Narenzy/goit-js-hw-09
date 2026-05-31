@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.main-title {
+}
+.back-link {
+  /* Gallery-Section */
+}
+.gallery-container {
+}
+.gallery-item {
+}
+.gallery-link {
+}
+.gallery-image {
+}
